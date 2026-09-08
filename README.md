@@ -44,3 +44,8 @@ cd rebuild2-open-algorithm
 npm i
 npm run dev
 ```
+
+## License
+
+[MIT](LICENSE) © 2026 Sarper Erel. Built at Rebuild 2, Helsinki, August 30th–September 1st, 2026,
+during the prototyping track for European social platforms.
